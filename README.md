@@ -1,4 +1,5 @@
 # Statistical Data Analysis in Python
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Darkbladecr/statistical-analysis-python-tutorial/master)
 
 Introductory Tutorial, SciPy 2013, 25 June 2013
 
